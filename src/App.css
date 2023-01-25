@@ -1,0 +1,10 @@
+.App-main-container {
+  /* text-align: center; */
+  background-image: url(./Test.jpg);
+  background-size: 64em;
+  height: 41em;
+ 
+  /* border: 2px solid; */
+  /* text-shadow: white 0px 0px 2px; */
+  /* font-size: 16px; */
+}

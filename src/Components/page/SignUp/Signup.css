@@ -1,0 +1,26 @@
+.Signup-Container {
+    border: 1px solid blue;
+    text-align: center;
+    /* block-size: 10em; */
+    margin-top: 1em;
+    padding-left: 1em;
+    width: 240px;
+    height: 350px;
+    border-radius: 1em;
+    /* background-color: beige */
+    background-image: url(../A.jpg);
+    background-size:60em;
+}
+
+.Signup-Main-Container {
+    text-align: -webkit-center;
+}
+.Signup-Cancle-Button-container{
+    display: flex;
+    text-align: center;
+    gap: 3em;
+    padding-top: 2em;
+    padding-left: 2em;
+    flex-wrap: wrap;
+    
+}
